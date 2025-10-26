@@ -1,24 +1,44 @@
-This is free and unencumbered software released into the public domain.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+1. Standard MIT License Provisions
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This license is compatible with the GNU General Public License (GPL) and other open-source licenses, allowing integration into larger projects under similar terms. You may create derivative works, provided that the original attribution remains intact. For clarification on MIT terms, refer to the official OSI-approved MIT License text at opensource.org/licenses/MIT.
+2. Commercial Distribution and Attribution Requirements
+While the Software is licensed under permissive terms, any commercial distribution, resale, or monetization of the Software (including bundled executables, modified versions, or services incorporating the code) must adhere to the following enhanced guidelines to protect the original developer's intellectual property and community integrity:
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Attribution in All Distributions: Every copy, modification, or derivative work must prominently display the original copyright notice ("Copyright (c) 2025 [Kirill8D1]") in the source code, documentation, and any user-facing interfaces (e.g., GUI splash screens or about pages). Failure to include this notice constitutes a violation of this license.
+No Alteration of Core Functionality Without Disclosure: Modifications that alter the core mechanics (e.g., adding unauthorized backdoors, malware, or paywalls) are prohibited. Any enhancements must be clearly documented as "forked from MultiTab v2.0 by Kirill8D1" and shared under the same license terms.
+Open-Source Encouragement: The spirit of this license encourages sharing improvements back to the community. If you create valuable forks or extensions, consider submitting pull requests to the official repository for inclusion in future updates.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+3. Exclusive Advertising and Sales Authorization
+To maintain the integrity of the Software's distribution and prevent unauthorized profiteering, the following restrictions apply specifically to advertising, promotion, and sales activities:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Exclusive Authorized Seller: Only the original developer, under the alias kirill8D1, is authorized to advertise, promote, sell, or distribute the Software commercially through the official platform FanPay. This includes any paid versions, premium bundles, or subscription-based access to the script or its derivatives. All official sales and advertisements will be conducted exclusively via the verified FanPay store linked to kirill8D1's account.
+Prohibition on Unauthorized Sales: No individual, group, or entity other than kirill8D1 may sell, resell, or offer the Software (or any unmodified/substantially similar copies) for monetary gain. This includes secondary markets, private Discord servers, Telegram channels, or other platforms. Free distribution and personal use remain fully permitted under the MIT terms.
+Reporting Mechanism for Violations: If you encounter any unauthorized seller offering the Software for sale (e.g., repackaged as their own product), you are encouraged—and hereby obligated under this license—to report it immediately to the original developer. To facilitate enforcement:
 
-For more information, please refer to <https://unlicense.org>
+Contact: [Provide contact method, e.g., Discord: kirill8D1#1234 or email: kirill8d1@example.com].
+Include: A direct link or screenshot of the unauthorized listing, proof of sale (e.g., price and platform), and any relevant details (e.g., seller's username or store URL).
+
+Reports will be handled confidentially and may lead to license revocation for the violator, DMCA takedowns, or legal action if necessary. By using this Software, you agree to act as a steward of its ethical distribution—your vigilance helps protect the community from scams and low-quality knockoffs. 🛡️
+FunPay-Specific Guidelines: Advertisements by kirill8D1 on FanPay must clearly state the official origin ("Official MultiTab v2.0 by kirill8D1") and link back to this license. Buyers on FanPay are entitled to updates, support, and refunds per FanPay's policies, which supersede any conflicting terms here.
+
+4. Liability and Disclaimer Extensions
+In addition to the standard "AS IS" disclaimer:
+
+No Warranty for Commercial Use: While personal and non-commercial use is fully supported, the developer disclaims all liability for losses incurred from commercial applications, including but not limited to bans from Roblox, data breaches, or financial damages from unauthorized sales.
+Roblox Compliance: Users acknowledge that the Software interacts with Roblox's platform and must comply with Roblox's Terms of Service and Community Standards. The developer is not responsible for account suspensions, hardware issues, or compatibility changes due to Roblox updates.
+Indemnification: By distributing or using the Software, you agree to indemnify the original developer (kirill8D1) against any claims arising from your modifications, sales, or misuse.
+
+5. Governing Law and Dispute Resolution
+This license shall be governed by the laws of [Specify Jurisdiction, e.g., the State of California, USA], without regard to conflict of law principles. Any disputes arising from this agreement shall first be resolved through good-faith negotiation. If unresolved, binding arbitration in [e.g., San Francisco, CA] under the American Arbitration Association rules shall apply. This clause does not limit statutory rights under applicable consumer protection laws.
+6. Entire Agreement and Amendments
+This document constitutes the entire agreement between you and the licensor regarding the Software. Amendments must be in writing and signed by kirill8D1. The developer reserves the right to update this license in future versions, with changes notified via the official repository or FunPay store.
+7. Contact and Support
+For questions, support, or license clarifications:
+
+Official Sales: FunPay Store by kirill8D1
+Email: kt0r2021@yandex.ru
+
+By downloading, using, or distributing this Software, you affirm that you have read, understood, and agree to be bound by these terms. Thank you for supporting ethical open-source development—together, we keep the community strong! 📜✨
+End of License Agreement
